@@ -1,0 +1,27 @@
+{
+  "name": "رفيق الحفظ - النظام الاحترافي",
+  "short_name": "رفيق الحفظ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#5D4037",
+  "theme_color": "#5D4037",
+  "orientation": "portrait",
+  "description": "رفيقك الذكي لحفظ القرآن الكريم مع خرائط حرارية واختبارات ذكية ومراجعة متباعدة",
+  "categories": [ "education", "books", "lifestyle" ],
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
